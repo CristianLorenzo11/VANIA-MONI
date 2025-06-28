@@ -124,11 +124,12 @@ em {
   }
 }
 .imagen-titulo {
-  width: 400px;
-  max-width: 100%;
+  width: 350px;
+  max-width: 90%;
   margin-bottom: 30px;
 
-filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.5));
+  filter: drop-shadow(0 0 6px rgba(255, 255, 255, 0.5));
+
   
   /* Difuminado inferior hacia la transparencia */
   -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 50%, rgba(0,0,0,0) 100%);
