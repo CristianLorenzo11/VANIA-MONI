@@ -44,6 +44,14 @@ body {
   box-shadow: 0 0 20px rgba(180, 179, 180, 0.4);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
+ .imagen-msj {
+   display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto; 
+ filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.5));
+  transition: transform 0.3s ease;
+ }
 
 .reglas:hover, .mision:hover {
   transform: scale(1.04);
