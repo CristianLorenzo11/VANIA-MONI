@@ -125,7 +125,7 @@ em {
 }
 .imagen-titulo {
   width: 350px;
-  max-width: 90%;
+  max-width: 100%;
   margin-bottom: 30px;
 
   filter: drop-shadow(0 0 6px rgba(255, 255, 255, 0.5));
